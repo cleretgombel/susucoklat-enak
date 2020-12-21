@@ -1,4 +1,3 @@
-<?xml version='1.0' standalone='yes'?>
 <servers>
 <server name="1.Ruang Nasional" ca="0" continent_code="ID" country="No.1: Zona Nasional" country_code="ID" ip="164.132.3.62" port="44483" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="2.Ruang RWTN" ca="0" continent_code="ID" country="No.2: Zona Bebas" country_code="ID" ip="144.76.73.12 port="42464" region="RWTN" url="http://mumble-de.cleanvoice.com" token=""/>
