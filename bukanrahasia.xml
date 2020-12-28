@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="1.RaKomNet 01" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomwar Nasional" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="2.RaKomNet 02" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomwar regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="1.🇮🇩RaKomNet 01🇮🇩" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomwar Nasional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="2.🇮🇩RaKomNet 02🇮🇩" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomwar regional" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="3.Jawa Tengah" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="45672" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="4.Jawa Barat" ca="0" continent_code="ID" country="Jawa barat" country_code="ID" ip="164.132.3.62" port="45673" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="5.DI Yogyakarta" ca="0" continent_code="ID" country="Jogjakarta" country_code="ID" ip="164.132.3.62" port="45674" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
