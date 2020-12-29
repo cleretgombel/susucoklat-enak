@@ -11,10 +11,10 @@
 <server name="9.Lampung" ca="0" continent_code="ID" country="Lampung" country_code="ID" ip="164.132.3.62" port="45816" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <!-- Server Aktif -->
 <!-- pulau Jawa -->
-<server name="10.DKI Jakarta" ca="0" continent_code="ID" country="Dki Jakarta" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="10.DKI Jakarta" ca="0" continent_code="ID" country="Dki Jakarta" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomwar regional" url="http://mumble-de.cleanvoice.com" token=""/>
 <!-- pulau Jawa -->
 <!-- pulau Sumatra -->
-<server name="11.Sumatera Utara" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="11.Sumatera Utara" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomwar regional" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="12.Sumatera Barat" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="13.Sumatera Selatan" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="14.Riau" ca="0" continent_code="ID" country="riau" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
