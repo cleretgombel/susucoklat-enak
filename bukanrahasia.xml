@@ -1,8 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name="RWT" ca="0" continent_code="ID" country="RWT" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="RCI" ca="0" continent_code="ID" country="MPA" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="RCI" ca="0" continent_code="ID" country="RCI" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
  token=""/>
- <server name="MPA" ca="0" continent_code="ID" country="MPA" country_code="ID" ip="144.76.73.12" port="42464" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+ <server name="MPA" ca="0" continent_code="ID" country="MPA" country_code="ID" ip="144.76.73.12" port="39891" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
  token=""/>
 </servers>
