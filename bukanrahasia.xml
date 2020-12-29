@@ -2,5 +2,5 @@
 <servers>
 <server name="ALIF" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomwar Nasional" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="ALUNG" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomwar regional" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="C-PHAM" ca="0" continent_code="ID" country="aceh" country_code="ID" ip="144.76.73.12" port="42464" region="Rakomwar Regional" url="http://wedangsusu12.gotmumble.com" token="orbit"/>
+<server name="C-PHAM" ca="0" continent_code="ID" country="aceh" country_code="ID" ip="144.76.73.12" port="42464" region="Rakomwar Regional" url="http://mumble-de.cleanvoice.com" token="orbit"/>
 </servers>
