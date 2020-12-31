@@ -6,5 +6,5 @@
 <server name="MPA (Madiun Plat AE) " ca="0" continent_code="ID" country="03" country_code="ID" ip="144.76.73.12" port="39891" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="IDOLA NUSANTARA" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="KOPI IRENG" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="RES AREA" ca="0" continent_code="ID" country="01" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="ARMI (Anak Rantau Minang)" ca="0" continent_code="ID" country="01" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 </servers>
