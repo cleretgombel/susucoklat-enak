@@ -1,5 +1,4 @@
 <?xml version='1.0' standalone='yes'?>
-<b>
 <servers>
 <server name="💠RAKOM-NET INDONESIA" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45992" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="💠ROOM KARAOKE" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="45963" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
@@ -11,6 +10,6 @@
 <server name="💠POS RONDA" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="45967" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="💠ROOM ADMIN" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45975" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 </servers>
-</b>
+
 
 
