@@ -10,7 +10,6 @@
 <server name="08.KOPI IRENG" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="09.POS RONDA" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45967" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="10.ROOM ADMIN" ca="0" continent_code="ID" country="10" country_code="ID" ip="164.132.3.62" port="45975" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="11.R.V.S" ca="0" continent_code="ID" country="11" country_code="ID" ip="51.79.159.195" port="45975" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
 </servers>
 
 
