@@ -1,11 +1,11 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="A.S.N.B" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="33610" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
-<server name="B.MTPP BRIKERS IND" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="46032" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="C.R.D.P.V" ca="0" continent_code="ID" country="05" country_code="ID" ip="198.24.160.150" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
-<server name="D.IDOLA NUSANTARA" ca="0" continent_code="ID" country="07" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="E.KOPI IRENG" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="F. SERVER UMUM RPV" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
+<server name="S.N.B" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="33610" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
+<server name="MTPP BRIKERS IND" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="46032" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="R.D.P.V" ca="0" continent_code="ID" country="05" country_code="ID" ip="198.24.160.150" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="IDOLA NUSANTARA" ca="0" continent_code="ID" country="07" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="KOPI IRENG" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="RPV" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
 <server name="1.Nusantara 📡" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="164.132.3.62" port="44483" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="2.Jawa Timur 📡" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="164.132.3.62" port="45671" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="3.Jawa Tengah 📡" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="45672" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
