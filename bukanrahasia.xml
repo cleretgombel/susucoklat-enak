@@ -1,13 +1,12 @@
-<? xml version = '1.0' standalone = 'yes'?>
+<?xml version='1.0' standalone='yes'?>
 <servers>
-<nama server = "SNB" ca = "0" benua_code = "ID" country = "01" country_code = "ID" ip = "198.24.160.150" port = "33610" region = "Rakomnet regional" url = "http: //mumble-us.cleanvoice.com "token =" "/>
-<nama server = "RKI" ca = "0" benua_code = "ID" country = "02" country_code = "ID" ip = "164.132.3.62" port = "46129" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
-<nama server = "RDPV" ca = "0" benua_code = "ID" country = "03" country_code = "ID" ip = "198.24.160.150" port = "34267" region = "Rakomnet regional" url = "http: //mumble-us.cleanvoice.com "token =" "/>
-<nama server = "RVS" ca = "0" benua_code = "ID" country = "04" country_code = "ID" ip = "164.132.3.62" port = "45799" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
-<nama server = "KOPI" ca = "0" benua_code = "ID" country = "05" country_code = "ID" ip = "164.132.3.62" port = "45916" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
-<nama server = "RPV" ca = "0" benua_code = "ID" country = "06" country_code = "ID" ip = "101.255.4.194" port = "64738" region = "Rakomnet regional" url = "http: //radioputra.romzi.online "token =" "/>
-<nama server = "DRN" ca = "0" benua_code = "ID" country = "07" country_code = "ID" ip = "202.157.177.180" port = "64738" region = "Rakomnet regional" url = "http: //mumble.nasional.online "token =" "/>
-<nama server = "MTPP" ca = "0" benua_code = "ID" country = "08" country_code = "ID" ip = "164.132.3.62" port = "46032" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
-<nama server = "IDOLA" ca = "0" benua_code = "ID" country = "09" country_code = "ID" ip = "164.132.3.62" port = "45913" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
-<nama server = "ARMI" ca = "0" benua_code = "ID" country = "11" country_code = "ID" ip = "164.132.3.62" port = "45963" region = "Rakomnet regional" url = "http : //mb.puma-network.net "token =" "/>
+<server name="S.N.B" ca="0" continent_code="ID" country="01" country_code="ID" ip="198.24.160.150" port="33610" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
+<server name="R.K.I" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="R.D.P.V" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="R.V.S" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="KOPI" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="R.P.V" ca="0" continent_code="ID" country="06" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
+<server name="D.R.N" ca="0" continent_code="ID" country="07" country_code="ID" ip="202.157.177.180" port="64738" region="Rakomnet regional" url="http://mumble.nasional.online" token=""/>
+<server name="M.T.P.P" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46032" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="IDOLA" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 </servers>
