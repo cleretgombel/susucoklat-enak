@@ -1,12 +1,17 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CHANNEL 001 : S.N.B" ca="0" continent_code="ID" country="01" country_code="ID" ip="198.24.160.150" port="33610" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
-<server name="CHANNEL 002 : R.K.I" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 003 : R.D.P" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
-<server name="CHANNEL 004 : R.V.S" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 005 : R.M.B" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 006 : R.P.V" ca="0" continent_code="ID" country="06" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
-<server name="CHANNEL 007 : D.R.N" ca="0" continent_code="ID" country="07" country_code="ID" ip="202.157.177.180" port="64738" region="Rakomnet regional" url="http://mumble.nasional.online" token=""/>
-<server name="CHANNEL 008 : R.B.I" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46032" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 009 : R.I.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH-001 : S.N.B" ca="0" continent_code="ID" country="01" country_code="ID" ip="198.24.160.150" port="33610" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
+<server name="CH-002 : R.K.I" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH-003 : R.D.P" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="CH-004 : R.V.S" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH-005 : R.M.B" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH-006 : R.P.V" ca="0" continent_code="ID" country="06" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
+<server name="CH-007 : D.R.N" ca="0" continent_code="ID" country="07" country_code="ID" ip="202.157.177.180" port="64738" region="Rakomnet regional" url="http://mumble.nasional.online" token=""/>
+<server name="CH-008 : R.B.I" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46032" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH-009 : R.I.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH-010 : R.C.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-011 : R.W.T" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="44266" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-012 : 0.0.0" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42464" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 </servers>
+
+
