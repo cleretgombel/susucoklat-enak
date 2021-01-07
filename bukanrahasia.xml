@@ -1,3 +1,5 @@
-Akan segera hadir update untuk apk ini, untuk info silahkan hubungi mas alif di Whatsapp 08988800922.
-Terimakasih.
-
+<servers>
+<server name="SERVER 01" ca="0" continent_code="ID" country="11" country_code="ID" ip="164.132.3.62" port="45963" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="SERVER 02" ca="0" continent_code="ID" country="12" country_code="ID" ip="164.132.3.62" port="45967" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="SERVER 03" ca="0" continent_code="ID" country="13" country_code="ID" ip="164.132.3.62" port="45975" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+</servers>
