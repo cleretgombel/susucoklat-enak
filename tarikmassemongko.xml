@@ -8,7 +8,7 @@
 <server name="CH-006 : Radio Walkie Talkie" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-007 : Radio Virtual Sahabat" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH-008 : Radio Putra Virtual" ca="0" continent_code="ID" country="09" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
-<server name="CH-010 : Radio AWT Lokal" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-009 : Radio AWT Lokal" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 </servers>
 
 
