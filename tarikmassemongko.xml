@@ -4,7 +4,7 @@
 <server name="CH-002 : Radio Kopi Ireng" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH-004 : Radio Idola Nusantara" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH-005 : Radio Cinta Indola" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="CH-006 : Radio Komunikasi Internet" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-006 : Radio Kom Net" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-007 : Radio AWT Lokal" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 </servers>
 
