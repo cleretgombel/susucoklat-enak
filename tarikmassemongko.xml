@@ -3,6 +3,7 @@
 <server name="CH-001 : Radio Mas Kuntet" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="bems" url="http://mb.puma-network.net" token=""/>
 <server name="CH-002 : Radio Kopi Ireng" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="bems" url="http://mb.puma-network.net" token=""/>
 <server name="CH-003 : RaKom-Net" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-005 : C.T.O.C" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42464" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-004 : V.P.S Global" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-005 : A.W.T Lokal" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-006 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="ayahalif" url="http://mb.puma-network.net" token=""/>
