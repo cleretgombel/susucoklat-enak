@@ -9,7 +9,7 @@
 <server name="CH-007 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/>
 <server name="CH-008 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/>
 <server name="CH-009 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CH-009 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-010 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
 </servers>
 
 
