@@ -5,7 +5,7 @@
 <server name="CH-003 : R.K.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-004 : R.V.S" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH-005 : R.P.V" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
-<server name="CH-006 : C.T.O" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42464" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-006 : D.R.V" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="39762" region="Rama" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-007 : V.P.S" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-008 : A.W.T" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 <server name="CH-009 : R.N.A" ca="0" continent_code="ID" country="09" country_code="ID" ip="202.157.177.180" port="64740" region="lekdi" url="http://lekdhi.nasional.online" token=""/>
