@@ -2,10 +2,10 @@
 <servers>
 <server name="CH-01 : C.T.O.C" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="ayahalif" url="http://mb.puma-network.net" token=""/>
 <server name="CH-02 : R.W.T.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="CH-03 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
-<server name="CH-04 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
-<server name="CH-05 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/>
-<server name="CH-06 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/>
-<server name="CH-07 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CH-08 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-03 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.61" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
+<server name="CH-04 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.61" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
+<server name="CH-05 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.61" port="45963" region="binti" url="http://mb.puma-network.net" token=""/>
+<server name="CH-06 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.61" port="45975" region="spt" url="http://mb.puma-network.net" token=""/>
+<server name="CH-07 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.61" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-08 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.61" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
 </servers>
