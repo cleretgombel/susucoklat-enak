@@ -1,30 +1,11 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CH-001 : ESTILLO" ca="0" continent_code="ID" country="09" country_code="ID" ip="202.157.177.180" port="64740" region="lekdi" url="http://lekdhi.nasional.online" token=""/>
-<server name="CH-002 : VIRTUAL SAHABAT" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="CH-003 : PUTRA VIRTUAL" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
-<server name="CH-004 : DIGITAL RADIO NASIONAL" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.152.119.227" port="64738" region="mumble" url="http://mumble.nasional.online" token=""/>
-<server name="CH-005 : RADIO VIRTUAL INDONESIA" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.157.116.121" port="64738" region="mumble" url="http://103.157.116.121" token=""/>
-<server name="CH-006 : NASIONAL NET INDONESIA" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.49.228.210" port="64738" region="orari" url="http://103.49.228.210" token=""/>
-<server name="CH-007 : GRIYA IVANA" ca="0" continent_code="ID" country="09" country_code="ID" ip="101.255.4.194" port="64740" region="ivana" url="http://ivana.romzi.online" token=""/>
-<server name="CH-008 : SANTAI ROMZI" ca="0" continent_code="ID" country="09" country_code="ID" ip="157.230.46.157" port="64738" region="MALAYSIA" url="http://santai.romzi.online" token=""/>
-<server name="CH-009 : C.T.O.C" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="ayahalif" url="http://mb.puma-network.net" token=""/>
-<server name="CH-010 : MAS KUNTET" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="bems" url="http://mb.puma-network.net" token=""/>
-<server name="CH-011 : KOPI IRENG" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="bems" url="http://mb.puma-network.net" token=""/>
-<server name="CH-012 : R.W.T" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="CH-013 : V.P.S" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="CH-014 : A.W.T" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="CH-015 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
-<server name="CH-016 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
-<server name="CH-017 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/>
-<server name="CH-018 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/>
-<server name="CH-019 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CH-020 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-01 : C.T.O.C" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="ayahalif" url="http://mb.puma-network.net" token=""/>
+<server name="CH-02 : R.W.T.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="CH-03 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
+<server name="CH-04 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/>
+<server name="CH-05 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/>
+<server name="CH-06 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/>
+<server name="CH-07 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-08 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
 </servers>
-
-
-
-
-
-
-
