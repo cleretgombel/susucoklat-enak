@@ -1,10 +1,10 @@
 <?xml version='1.0' standalone='yes'?> 
 <servers> 
-<server name="CH-001 : R.N.A" ca="0" continent_code="ID" country="09" country_code="ID" ip="202.157.177.180" port="64740" region="lekdi" url="http://lekdhi.nasional.online" token=""/> 
-<server name="CH-002 : R.V.S" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-003 : R.P.V" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/> 
-<server name="CH-004 : D.R.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.152.119.227" port="64738" region="mumble" url="http://mumble.nasional.online" token=""/> 
-<server name="CH-005 : R.V.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.157.116.121" port="64738" region="mumble" url="http://103.157.116.121" token=""/> 
+<server name="CH-001 : ESTILO" ca="0" continent_code="ID" country="09" country_code="ID" ip="202.157.177.180" port="64740" region="lekdi" url="http://lekdhi.nasional.online" token=""/> 
+<server name="CH-002 : VIRTUAL SAHABAT" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-003 : PUTRA VIRTUAL" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/> 
+<server name="CH-004 : DIGITAL NASIONAL" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.152.119.227" port="64738" region="mumble" url="http://mumble.nasional.online" token=""/> 
+<server name="CH-005 : VIRTUAL INDONESIA" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.157.116.121" port="64738" region="mumble" url="http://103.157.116.121" token=""/> 
 <server name="CH-006 : N.N.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.49.228.210" port="64738" region="orari" url="http://103.49.228.210" token=""/> 
 <server name="CH-007 : R.G.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="101.255.4.194" port="64740" region="ivana" url="http://ivana.romzi.online" token=""/> 
 <server name="CH-008 : R.S.R" ca="0" continent_code="ID" country="09" country_code="ID" ip="157.230.46.157" port="64738" region="MALAYSIA" url="http://santai.romzi.online" token=""/> 
