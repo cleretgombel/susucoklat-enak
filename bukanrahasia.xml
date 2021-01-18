@@ -11,7 +11,7 @@
 <server name="CH-009 : CLUB TOYOTA OF COMUNITY" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="ayahalif" url="http://mb.puma-network.net" token=""/> 
 <server name="CH-010 : MAS KUNTET" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="bems" url="http://mb.puma-network.net" token=""/> 
 <server name="CH-011 : KOPI IRENG" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="bems" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-012 : RAKOM-NET" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="CH-012 : RAKOM-NET OFFICIAL" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
 <server name="CH-013 : VIRTUAL PRIVACY SCURITY" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
 <server name="CH-014 : ADEM WALKIE TALKIE" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/>
 </servers>
