@@ -1,19 +1,18 @@
-<?xml version='1.0' standalone='yes'?>
-<servers>
-<server name="CHANNEL NUSANTARA" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="164.132.3.62" port="45875" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 001" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="45671" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 002" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="164.132.3.62" port="45672" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 003" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="164.132.3.62" port="45673" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 004" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="164.132.3.62" port="45784" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 005" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="45674" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 006" ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="45816" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 007" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="164.132.3.62" port="45818" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 008" ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="45828" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 009" ca="0" continent_code="ID" country="CHANNEL 009" country_code="ID" ip="164.132.3.62" port="45873" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 010" ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="164.132.3.62" port="45874" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 011" ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 012" ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 013" ca="0" continent_code="ID" country="CHANNEL 013" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 014" ca="0" continent_code="ID" country="CHANNEL 014" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 015" ca="0" continent_code="ID" country="CHANNEL 015" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-</servers>
+<?xml version='1.0' standalone='yes'?> 
+<servers> 
+<server name="CH-001 : R.N.A" ca="0" continent_code="ID" country="09" country_code="ID" ip="202.157.177.180" port="64740" region="lekdi" url="http://lekdhi.nasional.online" token=""/> 
+<server name="CH-002 : R.V.S" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-003 : R.P.V" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/> 
+<server name="CH-004 : D.R.N" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.152.119.227" port="64738" region="mumble" url="http://mumble.nasional.online" token=""/> 
+<server name="CH-005 : R.V.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.157.116.121" port="64738" region="mumble" url="http://103.157.116.121" token=""/>
+<server name="CH-006 : N.N.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="103.49.228.210" port="64738" region="orari" url="http://103.49.228.210" token=""/> 
+<server name="CH-007 : R.G.I" ca="0" continent_code="ID" country="09" country_code="ID" ip="101.255.4.194" port="64740" region="ivana" url="http://ivana.romzi.online" token=""/> 
+<server name="CH-008 : R.S.R" ca="0" continent_code="ID" country="09" country_code="ID" ip="157.230.46.157" port="64738" region="MALAYSIA" url="http://santai.romzi.online" token=""/>
+<server name="CH-009 : C.T.O.C" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="ayahalif" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-010 : R.M.K" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="bems" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-011 : R.K.I" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="bems" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-012 : R.W.T" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="CH-013 : V.P.S" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="43077" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="CH-014 : A.W.T" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42083" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="CH-015 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> <server name="CH-016 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> <server name="CH-017 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/> <server name="CH-018 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/> <server name="CH-019 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/> <server name="CH-020 : ................" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/> </servers> 
+ 
