@@ -1,6 +1,5 @@
 <?xml version='1.0' standalone='yes'?> 
 <servers> 
-
 <server name="CHANNEL 01" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
 <server name="CHANNEL 02" ca="0" continent_code="ID" country="09" country_code="ID" ip="144.76.73.12" port="42464" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
 <server name="CHANNEL 03" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
