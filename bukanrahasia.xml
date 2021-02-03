@@ -8,4 +8,5 @@
 <server name="CHANNEL 06" ca="0" continent_code="ID" country="06" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/> 
 <server name="CHANNEL 07" ca="0" continent_code="ID" country="07" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/> 
 <server name="CHANNEL 08" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CHANNEL 09" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="vivie" url="http://mb.puma-network.net" token=""/>
 </servers> 
