@@ -1,13 +1,13 @@
 <?xml version='1.0' standalone='yes'?> 
 <servers> 
-<server name="CHANNEL 01" ca="0" continent_code="ID" country="01" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
-<server name="CHANNEL 02" ca="0" continent_code="ID" country="02" country_code="ID" ip="144.76.73.12" port="42464" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
-<server name="CHANNEL 03" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
-<server name="CHANNEL 04" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
-<server name="CHANNEL 05" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/> 
-<server name="CHANNEL 06" ca="0" continent_code="ID" country="06" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/> 
-<server name="CHANNEL 07" ca="0" continent_code="ID" country="07" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/> 
-<server name="CHANNEL 08" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 09" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 10" ca="0" continent_code="ID" country="10" country_code="ID" ip="164.132.3.62" port="46771" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-001 WARUNG COPY" ca="0" continent_code="ID" country="01" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="CH-002" ca="0" continent_code="ID" country="02" country_code="ID" ip="144.76.73.12" port="42464" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="CH-003" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-004" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-005" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-006" ca="0" continent_code="ID" country="06" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-007" ca="0" continent_code="ID" country="07" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/> 
+<server name="CH-008" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-009" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="CH-010" ca="0" continent_code="ID" country="10" country_code="ID" ip="164.132.3.62" port="46771" region="vivie" url="http://mb.puma-network.net" token=""/>
 </servers> 
