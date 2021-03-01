@@ -1,13 +1,13 @@
 <?xml version='1.0' standalone='yes'?> 
 <servers> 
-<server name="CH-001 WARUNG COPY" ca="0" continent_code="ID" country="01" country_code="ID" ip="144.76.73.12" port="42466" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
-<server name="CH-002" ca="0" continent_code="ID" country="02" country_code="ID" ip="144.76.73.12" port="42464" region="clenavoice" url="http://mumble-de.cleanvoice.com" token=""/> 
-<server name="CH-003" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="45992" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-004" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45994" region="dutasripalem5" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-005" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45963" region="binti" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-006" ca="0" continent_code="ID" country="06" country_code="ID" ip="164.132.3.62" port="45975" region="spt" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-007" ca="0" continent_code="ID" country="07" country_code="ID" ip="164.132.3.62" port="45967" region="vivie" url="http://mb.puma-network.net" token=""/> 
-<server name="CH-008" ca="0" continent_code="ID" country="08" country_code="ID" ip="164.132.3.62" port="46279" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CH-009" ca="0" continent_code="ID" country="09" country_code="ID" ip="164.132.3.62" port="45913" region="vivie" url="http://mb.puma-network.net" token=""/>
-<server name="CH-010" ca="0" continent_code="ID" country="10" country_code="ID" ip="164.132.3.62" port="46771" region="vivie" url="http://mb.puma-network.net" token=""/>
+<server name="DRN AMATIR RADIO" ca="0" continent_code="ID" country="01" country_code="ID" ip="103.152.119.227" port="64750" region="indonesia" url="https://server3.nasional.online" token=""/> 
+<server name="KANTOR RPV DAN MUSIC" ca="0" continent_code="ID" country="02" country_code="ID" ip="101.255.4.194" port="64738" region="indonesia" url="https://radio.nasional.online" token=""/> 
+<server name="RADIO PUTRA DAERAH" ca="0" continent_code="ID" country="03" country_code="ID" ip="101.255.4.194" port="64750" region="indonesia" url="https://rad.romzi.online" token=""/> 
+<server name="RADIO VIRTUAL PADUKA" ca="0" continent_code="ID" country="04" country_code="ID" ip="101.255.4.194" port="64720" region="indonesia" url="https://paduka.romzi.online" token=""/> 
+<server name="DIGITAL RADIO NASIONAL" ca="0" continent_code="ID" country="05" country_code="ID" ip="202.157.187.112" port="64738" region="indonesia" url="https://mumble.nasional.online" token=""/> 
+<server name="RADIO KOMUNIKASI NUANSA SAHABAT" ca="0" continent_code="ID" country="06" country_code="ID" ip="101.255.4.194" port="44720" region="indonesia" url="https://rkn.romzi.online" token=""/> 
+<server name="SELAMAT DATANG DI NGEBRIK ASIK" ca="0" continent_code="ID" country="07" country_code="ID" ip="202.157.177.180" port="55555" region="indonesia" url="https://lekdhi.nasional.online" token=""/> 
+<server name="KOMUNIKASI" ca="0" continent_code="ID" country="08" country_code="ID" ip="180.248.184.151" port="64738" region="indonesia" url="https://komunikasi.ptk.co.id" token=""/>
+<server name="LATIMOJONG SERVER" ca="0" continent_code="ID" country="09" country_code="ID" ip="180.253.103.16" port="64738" region="indonesia" url="https://drn.nasional.online" token=""/>
+<server name="KHATULISTIWA" ca="0" continent_code="ID" country="10" country_code="ID" ip="180.248.184.151" port="64735" region="indonesia" url="https://khatulistiwa.ptk.co.id" token=""/>
 </servers> 
