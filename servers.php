@@ -1,4 +1,3 @@
-
 TeamTalk 5 Official Server (UK)
 tt5eu.bearware.dk
 1033510335falseguestguest/TeamTalk 5 Official Server (US)
