@@ -5,7 +5,9 @@
 <server name="SERVER 03" ca="0" continent_code="ID" country="01" country_code="ID" ip="144.76.73.12" port="43077" region="indonesia" url="http://mumble-de.cleanvoice.com" token=""/> 
 <server name="SERVER 04" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="52965" region="indonesia" url="http://mumble-de.cleanvoice.com" token=""/> 
 <server name="SERVER 05" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="51005" region="indonesia" url="http://mumble-de.cleanvoice.com" token=""/> 
+<server name="SERVER 06" ca="0" continent_code="ID" country="01" country_code="ID" ip="103.102.153.198" port="47777" region="indonesia" url="http://mumble-de.cleanvoice.com" token=""/> 
 </servers> 
+ 
  
 
 
